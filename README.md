@@ -8,6 +8,7 @@ Desenvolver um modelo de machine learning capaz de estimar a idade de uma pessoa
 
 ## 🛠️ Ferramentas e Bibliotecas Utilizadas
 - Python
+- numpy
 - Pandas
 - TensorFlow
 - Keras
