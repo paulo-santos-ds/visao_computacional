@@ -53,7 +53,9 @@ Desenvolver um modelo de machine learning capaz de estimar a idade de uma pessoa
 ```
 
 2. Extrair o arquivo (faces.zip)
-
+```bash
+  https://github.com/paulo-santos-ds/visao_computacional/blob/main/faces.zip
+```
 3. Instale as dependências
 ```bash
 pip install -r requirements.txt
