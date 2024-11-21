@@ -20,8 +20,9 @@ Desenvolver um modelo de machine learning capaz de estimar a idade de uma pessoa
 - Treinamento de modelo de aprendizado profundo
 - Avaliação de desempenho usando Mean Absolute Error (MAE)
 
-  ## Conclusão
-  EAM (Mean Absolute Error): O EAM, ou Erro Médio Absoluto, é uma métrica que mede a diferença média absoluta entre as previsões do modelo e os valores reais. Um EAM de 7.9925 indica que, em média, as previsões do modelo apresentam um erro absoluto de aproximadamente 7,99 unidades em relação aos valores observados. O objetivo é minimizar essa métrica o máximo possível, garantindo previsões mais precisas.
+## Conclusão
+  EAM (Mean Absolute Error): O EAM, ou Erro Médio Absoluto, é uma métrica que mede a diferença média absoluta entre as previsões do modelo e os valores reais. Um EAM de 7.9925 indica que, em média, as previsões do modelo apresentam um erro 
+  absoluto de aproximadamente 7,99 unidades em relação aos valores observados. O objetivo é minimizar essa métrica o máximo possível, garantindo previsões mais precisas.
 
 Test EAM: O valor de 7.9925 foi calculado no conjunto de teste, indicando a capacidade do modelo de generalizar para dados que não foram utilizados durante o treinamento. Isso significa que, em média, o modelo erra por cerca de 7,99 unidades ao prever os valores no conjunto de teste.
 
