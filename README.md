@@ -48,10 +48,10 @@ Desenvolver um modelo de machine learning capaz de estimar a idade de uma pessoa
 
 1. Clone o repositório
 ```bash
- https://github.com/paulo-santos-ds/analise_de_sentimentos_em_criticas_de_filmes
+ https://github.com/paulo-santos-ds/visao_computaional
 ```
 
-2. Extrair o arquivo (imdb_reviews.zip)
+2. Extrair o arquivo (faces.zip)
 
 3. Instale as dependências
 ```bash
@@ -60,6 +60,6 @@ pip install -r requirements.txt
 
 4. Execute o notebook principal
 ```bash
-analise_de_sentimentos_em_criticas_de_filmes.ipynb
+visao_computacional.ipynb
 ```
 
