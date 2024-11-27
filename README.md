@@ -6,6 +6,7 @@ Gerente de segurança do cassino Boa Sorte, implementou um rigoroso sistema de v
 ## Objetivo
 Desenvolver um modelo de machine learning capaz de estimar a idade de uma pessoa a partir de uma foto, auxiliando no processo de acesso ao estabelecimento.
 
+
 ## 🛠️ Ferramentas e Bibliotecas Utilizadas
 - Python
 - numpy
