@@ -3,6 +3,7 @@
 ## 📋 Descrição do Projeto
 Gerente de segurança do cassino Boa Sorte, implementou um rigoroso sistema de verificação de idade para impedir a entrada de menores. O sistema utiliza inteligência artificial para analisar documentos e características físicas dos visitantes, garantindo que apenas maiores de 18 anos possam acessar as áreas de jogos. Os funcionários do estabelecimento foram treinados para seguir protocolos rígidos de identificação e verificando a idade dos clientes automaticamente.
 
+
 ## Objetivo
 Desenvolver um modelo de machine learning capaz de estimar a idade de uma pessoa a partir de uma foto, auxiliando no processo de acesso ao estabelecimento.
 
